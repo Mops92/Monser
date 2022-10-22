@@ -1,7 +1,7 @@
 
 public abstract class Monster {
 
-    String name;
+    private String name;
 
     Monster(String  name){
         this.name = name;

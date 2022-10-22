@@ -1,7 +1,7 @@
 public class Troll extends Monster{
 
-    int hp = 7;
-    int damage = 2;
+    private int hp = 7;
+    private int damage = 2;
 
     Troll(String name) {
         super(name);
